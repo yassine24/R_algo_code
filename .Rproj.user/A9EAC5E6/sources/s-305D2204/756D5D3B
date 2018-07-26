@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532616801626.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4145731518",
+    "id" : "756D5D3B",
+    "lastKnownWriteTime" : 1532211991,
+    "last_content_update" : 1532211991,
+    "path" : "~/Bureau/Rtest/randomForestModel.R",
+    "project_path" : "randomForestModel.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
